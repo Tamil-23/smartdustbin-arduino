@@ -1,1 +1,1 @@
-# smartdustbin-arduino
+A Smart Dustbin Sensor Application Using Arduino.
